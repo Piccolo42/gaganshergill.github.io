@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gaganshergill.github.io/gaganshergill/sitemap.xml
